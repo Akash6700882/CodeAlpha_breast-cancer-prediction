@@ -14,7 +14,7 @@ UCI Breast Cancer Wisconsin dataset.
 
 ## Results
 - Logistic Regression Accuracy: 97.34%
-- Random Forest Accuracy: XX.XX%
+- Random Forest Accuracy: 98.10%
 
 ## Future Work
 - Hyperparameter tuning
